@@ -1,7 +1,7 @@
 # s3tools-py
 
 A very simple python library for (so far) creating and deleting files on Amazon
-S3.
+S3. It is build on top of [boto](https://github.com/boto/boto)
 
 ## Usage
 
