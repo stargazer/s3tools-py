@@ -16,4 +16,8 @@ S3.
     # Delete file
     s3_tools.delete(bucket_name, key)
 
+## Note
+
+The code is very simple and well documented, so feel free to consult it for a
+better insight on method parameters.
 
